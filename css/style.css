@@ -1,43 +1,7 @@
 @import url("./index.css");
 
-nav {
-  margin-top: 20px;
+
+
+.hero {
+  max-height: calc(100% - 250px);
 }
-
-nav a {
-  color: #fff;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-/* section.hero {
-  background-image: url('hero-image.jpg'); /* Add the path to your hero image 
-  background-size: cover;
-  color: #fff;
-  text-align: center;
-  padding: 100px 20px;
-} */
-
-/* section {
-  background-color: #fff;
-  padding: 50px 20px;
-  margin: 20px 0; 
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-} */
-
-h2 {
-  color: #2c3e50;
-}
-
-footer {
-  background-color: #2c3e50;
-  color: #fff;
-  text-align: center;
-  padding: 10px 0;
-}
-
-/* .hero {
-  padding: ;
-} */
